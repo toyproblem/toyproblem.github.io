@@ -1,0 +1,2 @@
+[phone-noise-figure]
+checkout = git clone 'git@github.com:toyproblem/phone-noise-figure' 'phone-noise-figure'
